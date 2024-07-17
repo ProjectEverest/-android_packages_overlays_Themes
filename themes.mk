@@ -430,3 +430,8 @@ PRODUCT_PACKAGES += \
     BrightnessSliderShadedOverlay \
     BrightnessSliderThinOverlay \
     BrightnessSliderTranslucentOverlay
+
+# Slit shade (landscape qs style)
+PRODUCT_PACKAGES += \
+    SplitShadeLayoutOverlay \
+    SplitShadeCutoutOverlay
