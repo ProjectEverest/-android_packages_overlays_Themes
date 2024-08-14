@@ -433,5 +433,4 @@ PRODUCT_PACKAGES += \
 
 # Slit shade (landscape qs style)
 PRODUCT_PACKAGES += \
-    SplitShadeLayoutOverlay \
-    SplitShadeCutoutOverlay
+    SplitShadeLayoutOverlay
