@@ -434,3 +434,15 @@ PRODUCT_PACKAGES += \
 # Slit shade (landscape qs style)
 PRODUCT_PACKAGES += \
     SplitShadeLayoutOverlay
+
+# QS UI Style
+PRODUCT_PACKAGES += \
+    QSOutline \
+    QSTwoToneAccent \
+    QSTwoToneAccentTrans \
+    QSShaded \
+    QSCyberPunk \
+    QSNeumorph \
+    QSReflected \
+    QSSurround \
+    QSThin
